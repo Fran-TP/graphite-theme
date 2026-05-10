@@ -38,8 +38,10 @@ The theme consists of two main style files:
 
 You may further customize colors by editing these files inside the theme folder.
 
-## Screenshots
-_Please add your screenshot here!_
+## Preview
+
+![Graphite theme preview](preview.png)
+
 
 ## Credits
 - Built for Ulauncher by [Your Name or Username]
