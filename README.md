@@ -41,14 +41,3 @@ You may further customize colors by editing these files inside the theme folder.
 ## Preview
 
 ![Graphite theme preview](preview.png)
-
-
-## Credits
-- Built for Ulauncher by [Your Name or Username]
-- Inspired by modern dark UI trends
-
-## License
-[MIT](LICENSE) or your chosen license
-
----
-For issues, suggestions, or to contribute, open an issue or pull request!
